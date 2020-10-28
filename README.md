@@ -7,7 +7,7 @@ The ComplexNumber class models the complex number above, for example, and overlo
 
 This app allows for the user to perform all operations on the complex numbers (addition, subtraction, multiplication, division), accounts for invalid data entered by the user on the form, and can also verify if the two operands share equality.
 
-Proof of test cases for the different operations can be found in the corresponding Word document with screenshots showing the code when running.
+Proof of test cases for the different operations can be found in the corresponding Word document along with screenshots showing the code when running.
 
 This app was developed with Microsoft Visual Studio 2019 Community (various versions).
 
