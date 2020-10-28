@@ -1,5 +1,5 @@
 # Complex-Numbers
-An application using operator overloading to create a complex number calculator.
+A GUI forms application using operator overloading to create a complex number calculator.
 
 A complex number is a number in the form (a + bi) like (4 + 9i) or (-4 - 9i). In this case, i is the imaginary number which is the square root of -1.
 
